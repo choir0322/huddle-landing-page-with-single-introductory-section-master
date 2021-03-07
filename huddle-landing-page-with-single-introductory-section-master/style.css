@@ -1,0 +1,38 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.container{
+    background-color: hsl(257, 40%, 49%);
+    background-image: url('images/bg-desktop.svg');
+    background-size:cover;
+}
+.logoImg{
+    padding:50px 50px 50px 90px;
+}
+
+.bottom{
+    display:flex;
+    gap:5%;
+    color:white;
+}
+
+.bottom .illustration img{
+    padding:40px 30px 60px 100px;
+}
+
+.registerBtn{
+    padding:20px 70px 20px 70px;
+    border-radius:30px;
+    color: hsl(257, 40%, 49%);
+    border:none;
+    box-shadow: 0 0 10px black;
+}
+
+.registerBtn:hover{
+    background-color:hsl(300, 69%, 71%);
+    color:white;
+}
+
+.texts{
+    padding-top:50px;
+}
